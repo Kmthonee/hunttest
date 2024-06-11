@@ -1,0 +1,40 @@
+{
+    "name": "ᴀʟᴏѕʜ ᴄʜᴇᴄᴋᴇʀ",
+    "سورس": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
+    "logo": ".",
+    "stack": "container",
+    "repository": "https://t.me/x_xxax",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://t.me/x_xxax",
+    "env": {
+        "APP_ID": {
+            "description": "الايـبـي ايــدي",
+            "value": "27153827",
+            "required": false
+        },
+        "APP_HASH": {
+            "description": "الايـبـي هــاش",
+            "value": "ace2962c9644ce3189c2b0cdf1d00394",
+            "required": false
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت بدون ـ@ـ",
+            "value": "",
+            "required": true
+        }
+    }
+}
